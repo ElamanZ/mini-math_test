@@ -1,0 +1,22 @@
+body {
+    background-color: #2B2B2B;
+}
+p {
+    color: #A9B7C6;
+    font-size: 25px;
+}
+input {
+    width: 350px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 8px;
+    border: solid red;
+}
+button {
+    width: 350px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 8px;
+    border: solid green;
+    margin: 50px 0 0 0;
+}
